@@ -1,0 +1,21 @@
+SupplierID,SupplierName,Region,ReliabilityRating
+S001,Supplier_B1,North America,0.71
+S002,Supplier_C2,Asia,0.77
+S003,Supplier_D3,Europe,0.91
+S004,Supplier_E4,North America,0.87
+S005,Supplier_F5,North America,0.71
+S006,Supplier_G6,Europe,0.77
+S007,Supplier_H7,North America,0.86
+S008,Supplier_I8,South America,0.76
+S009,Supplier_J9,Asia,0.93
+S010,Supplier_K10,North America,0.92
+S011,Supplier_L11,Europe,0.9
+S012,Supplier_M12,Asia,0.78
+S013,Supplier_N13,Europe,0.98
+S014,Supplier_O14,Asia,0.73
+S015,Supplier_P15,South America,0.73
+S016,Supplier_Q16,Asia,0.88
+S017,Supplier_R17,North America,0.91
+S018,Supplier_S18,North America,0.98
+S019,Supplier_T19,South America,0.72
+S020,Supplier_U20,Asia,0.94

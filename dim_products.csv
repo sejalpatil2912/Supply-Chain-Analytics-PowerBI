@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,UnitCost
+P0001,Product_1,Medical,443.87
+P0002,Product_2,Home Goods,292.9
+P0003,Product_3,Electronics,32.45
+P0004,Product_4,Clothing,388.8
+P0005,Product_5,Electronics,429.11
+P0006,Product_6,Electronics,196.26
+P0007,Product_7,Industrial,321.49
+P0008,Product_8,Home Goods,89.7
+P0009,Product_9,Home Goods,112.66
+P0010,Product_10,Home Goods,353.89
+P0011,Product_11,Electronics,308.47
+P0012,Product_12,Clothing,271.73
+P0013,Product_13,Clothing,90.07
+P0014,Product_14,Industrial,142.27
+P0015,Product_15,Medical,117.61
+P0016,Product_16,Home Goods,423.0
+P0017,Product_17,Electronics,122.23
+P0018,Product_18,Electronics,404.47
+P0019,Product_19,Industrial,141.19
+P0020,Product_20,Clothing,457.44
+P0021,Product_21,Medical,439.42
+P0022,Product_22,Home Goods,114.19
+P0023,Product_23,Industrial,203.86
+P0024,Product_24,Industrial,80.01
+P0025,Product_25,Clothing,130.85
+P0026,Product_26,Medical,274.1
+P0027,Product_27,Medical,219.93
+P0028,Product_28,Medical,205.71
+P0029,Product_29,Clothing,498.69
+P0030,Product_30,Clothing,259.67
+P0031,Product_31,Electronics,380.33
+P0032,Product_32,Electronics,84.89
+P0033,Product_33,Clothing,398.12
+P0034,Product_34,Industrial,302.24
+P0035,Product_35,Industrial,196.99
+P0036,Product_36,Industrial,269.27
+P0037,Product_37,Medical,431.78
+P0038,Product_38,Electronics,343.34
+P0039,Product_39,Electronics,344.04
+P0040,Product_40,Medical,377.93
+P0041,Product_41,Home Goods,64.66
+P0042,Product_42,Industrial,87.5
+P0043,Product_43,Electronics,477.37
+P0044,Product_44,Home Goods,486.23
+P0045,Product_45,Clothing,258.76
+P0046,Product_46,Electronics,436.55
+P0047,Product_47,Home Goods,422.42
+P0048,Product_48,Medical,308.4
+P0049,Product_49,Clothing,193.22
+P0050,Product_50,Clothing,274.3
+P0051,Product_51,Medical,460.06
+P0052,Product_52,Medical,168.84
+P0053,Product_53,Electronics,64.82
+P0054,Product_54,Home Goods,440.57
+P0055,Product_55,Home Goods,127.33
+P0056,Product_56,Clothing,440.22
+P0057,Product_57,Electronics,51.97
+P0058,Product_58,Industrial,409.85
+P0059,Product_59,Medical,385.26
+P0060,Product_60,Clothing,333.28
+P0061,Product_61,Medical,90.91
+P0062,Product_62,Medical,437.49
+P0063,Product_63,Industrial,482.54
+P0064,Product_64,Medical,380.08
+P0065,Product_65,Clothing,359.34
+P0066,Product_66,Industrial,497.62
+P0067,Product_67,Home Goods,224.67
+P0068,Product_68,Medical,231.23
+P0069,Product_69,Clothing,120.1
+P0070,Product_70,Home Goods,20.31
+P0071,Product_71,Medical,122.76
+P0072,Product_72,Clothing,13.52
+P0073,Product_73,Electronics,122.18
+P0074,Product_74,Electronics,431.22
+P0075,Product_75,Electronics,261.94
+P0076,Product_76,Home Goods,337.8
+P0077,Product_77,Clothing,274.22
+P0078,Product_78,Medical,292.34
+P0079,Product_79,Clothing,394.46
+P0080,Product_80,Industrial,103.3
+P0081,Product_81,Electronics,332.9
+P0082,Product_82,Home Goods,217.55
+P0083,Product_83,Industrial,433.28
+P0084,Product_84,Electronics,339.95
+P0085,Product_85,Electronics,39.7
+P0086,Product_86,Home Goods,402.29
+P0087,Product_87,Electronics,131.84
+P0088,Product_88,Clothing,272.78
+P0089,Product_89,Clothing,216.72
+P0090,Product_90,Home Goods,236.69
+P0091,Product_91,Electronics,227.13
+P0092,Product_92,Medical,57.98
+P0093,Product_93,Medical,419.65
+P0094,Product_94,Electronics,463.92
+P0095,Product_95,Clothing,91.49
+P0096,Product_96,Industrial,245.87
+P0097,Product_97,Industrial,452.2
+P0098,Product_98,Clothing,195.7
+P0099,Product_99,Industrial,139.95
+P0100,Product_100,Industrial,149.77
