@@ -1,4 +1,4 @@
-# Supply Chain Analytics Dashboard (Entry-Level Project)
+# Supply Chain Analytics Dashboard 
 
 ## 📌 Project Overview
 The goal of this project is to analyze supply chain data to identify potential shipping delays and track inventory levels. This dashboard was built to practice data modeling and data visualization in Power BI.
