@@ -24,4 +24,15 @@ The data was modeled using a basic **Star Schema** to connect the tables:
 *   **Data Visualization:** Adding standard slicers (filters) and basic conditional formatting.
 
 ## 🗂️ Data Sources
-The dashboard is built upon a custom generated relational dataset containing 5,000 randomized orders, complete with simulated shipping delays, supplier reliability variations, and inventory capacity constraints. The data is available in the `/Data` directory.
+The dashboard is built upon a custom generated relational dataset containing 5,000 randomized orders, complete with simulated shipping delays, supplier reliability variations, and inventory capacity constraints.
+
+*   The raw data files (`.csv`) are located directly in the main directory of this repository.
+*   The Python script used to generate this synthetic data is located in the `scripts/` folder (`scripts/generate_data.py`), demonstrating the automated data generation process before modeling in Power BI.
+
+## 🖼️ Dashboard Screenshots
+Screenshots of the completed Power BI Dashboard are included directly in this repository for preview:
+*   Overview
+*   Suppliers
+*   Logistics
+*   Inventory
+
